@@ -42,6 +42,7 @@ commands:
 
 ```md
 feat(<optional scope>): :sparkles: <header>
+
 <message>
 ```
 
@@ -49,6 +50,7 @@ feat(<optional scope>): :sparkles: <header>
 
 ```md
 fix(<optional scope>): :bug: <header>
+
 <message>
 ```
 
@@ -56,6 +58,7 @@ fix(<optional scope>): :bug: <header>
 
 ```md
 doc(<optional scope>): :memo: <header>
+
 <message>
 ```
 
@@ -63,6 +66,7 @@ doc(<optional scope>): :memo: <header>
 
 ```md
 test(<optional scope>): :white_check_mark: <header>
+
 <message>
 ```
 
@@ -70,6 +74,7 @@ test(<optional scope>): :white_check_mark: <header>
 
 ```md
 wip(<optional scope>): :construction: <header>
+
 <message>
 ```
 
