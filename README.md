@@ -31,6 +31,8 @@ empty separator line
 
 ## My personal convention ([with emojis](https://gitmoji.dev/)) 👨🏽‍💻
 
+Note: In my opinion, to use conventional commit standards can enhance code readability and maintainability.
+
 commands:
 
 - git add .
