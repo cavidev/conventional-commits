@@ -42,9 +42,11 @@ empty separator line
 
 ```md
 <version core> ::= <major> "." <minor> "." <patch>
+
+> e.g: 2.1.0
 ```
 
-## My personal convention ([with emojis](https://gitmoji.dev/)) 👨🏽‍💻
+## My personal convention ([with emojis](https://gitmoji.dev/), [extends](https://github.com/ikatyang/emoji-cheat-sheet?tab=readme-ov-file)) 👨🏽‍💻
 
 Note: In my opinion, to use conventional commit standards can enhance code readability and maintainability because you can track each commit
 
@@ -55,6 +57,10 @@ commands:
 
 ### Init project or new branch
 
+init(UI): :tada: Init UI Project
+
+We are going to make an ansowe UI project
+
 ```md
 init(<optional scope>): :tada: <header>
 
@@ -63,7 +69,7 @@ init(<optional scope>): :tada: <header>
 
 ### Commiting User Story
 
-These commits are releating with the <minor> version
+These commits are releating with the `<minor>` version
 
 ```md
 feat(<optional scope>): :sparkles: <header>
@@ -73,7 +79,7 @@ feat(<optional scope>): :sparkles: <header>
 
 ### Commiting Fix Bug
 
-These commits are releating with the <patch> version
+These commits are releating with the `<patch>` version
 
 ```md
 fix(<optional scope>): :bug: <header>
