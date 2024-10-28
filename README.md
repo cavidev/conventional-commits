@@ -59,7 +59,7 @@ commands:
 
 init(UI): :tada: Init UI Project
 
-We are going to make an ansowe UI project
+We are going to make an amazing UI project
 
 ```md
 init(<optional scope>): :tada: <header>
@@ -67,9 +67,9 @@ init(<optional scope>): :tada: <header>
 <message>
 ```
 
-### Commiting User Story
+### Committing User Story
 
-These commits are releating with the `<minor>` version
+These commits are relating with the `<minor>` version
 
 ```md
 feat(<optional scope>): :sparkles: <header>
@@ -77,9 +77,9 @@ feat(<optional scope>): :sparkles: <header>
 <message>
 ```
 
-### Commiting Fix Bug
+### Committing Fix Bug
 
-These commits are releating with the `<patch>` version
+These commits are relating with the `<patch>` version
 
 ```md
 fix(<optional scope>): :bug: <header>
@@ -87,7 +87,7 @@ fix(<optional scope>): :bug: <header>
 <message>
 ```
 
-### Commiting README, Changelogs and Docs changes
+### Committing README, Changelogs and Docs changes
 
 ```md
 doc(<optional scope>): :memo: <header>
@@ -95,7 +95,7 @@ doc(<optional scope>): :memo: <header>
 <message>
 ```
 
-### Commiting test
+### Committing test
 
 ```md
 test(<optional scope>): :white_check_mark: <header>
@@ -103,7 +103,7 @@ test(<optional scope>): :white_check_mark: <header>
 <message>
 ```
 
-### Commiting WIP/Progress/MinorChanges
+### Committing WIP/Progress/MinorChanges
 
 ```md
 wip(<optional scope>): :construction: <header>
@@ -111,7 +111,7 @@ wip(<optional scope>): :construction: <header>
 <message>
 ```
 
-### Removing libraries/dependecies
+### Removing libraries/dependencies
 
 ```md
 refactor(<optional scope>): :rotating_light: <header>
